@@ -1,4 +1,4 @@
-I made an HTML Base you could build on. It just has a cat you can click on and plays music. IDK I made it in 3 minutes have fun I guess.
+I told ChatGPT to create this. Blame it for any bugs. lol 
 To Launch It:
 1. Download and Put it inside any folder.
 2. Open Folder
